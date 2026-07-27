@@ -7,7 +7,7 @@ that have publicly launched on the Y Combinator website. It is sourced from
 In the near future, we will include the link to their repositories.
 
 ## FAQs
-
+y
 <details>
   <summary>How can I get my company listed here?</summary>
 
